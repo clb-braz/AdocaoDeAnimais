@@ -60,11 +60,8 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## ✒️ Autores
 
-* **Claudinei Braz** - *Desenvolvimento* - [clb-braz](https://github.com/clb-braz)
+*  Braz - clb.braz@gmail.com - [clb-braz](https://github.com/clb-braz)
 
-## 📞 Suporte
-
-Para suporte, envie um email para [seu-email@exemplo.com] ou abra uma issue no projeto.
 
 
 ![Java CI with Maven](https://github.com/clb-braz/AdocaoDeAnimais/actions/workflows/maven.yml/badge.svg)
